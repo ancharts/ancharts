@@ -1,12 +1,11 @@
 <h1 align="center">Hi there, I'm Ann! </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student in Higher School of Economics, faculty of Applied Mathematics and Computer Science</h3>
-How to reach me: `annamikhaylova6263@gmail.com` or `@ancharts` in Telegram
+How to reach me: annamikhaylova6263@gmail.com or @ancharts in Telegram
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ancharts&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancharts&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ancharts&theme=monokai)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ancharts)](https://git.io/streak-stats)
 
 <!--
 **ancharts/ancharts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
