@@ -9,7 +9,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<h5> How to reach me: <code>annamikhaylova6263@gmail.com</code> or <code>@ancharts</code> in Telegram </h3>
+<h5> How to reach me:
+<br><br> 
+<a href="mailto:annamikhaylova6263@gmail.com"><img src="https://img.shields.io/badge/-annamikhaylova6263@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/ancharts"><img src="https://img.shields.io/badge/telegram-%40ancharts-blue"/></a> 
+<a href="https://instagram.com/ancharts"><img src="https://img.shields.io/badge/-@ancharts-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg)
 
@@ -19,6 +23,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancharts&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ancharts&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ancharts&theme=github_dark)
+
 
 
 <!--
