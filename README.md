@@ -15,7 +15,7 @@
 <a href="https://t.me/ancharts"><img src="https://img.shields.io/badge/telegram-%40ancharts-blue"/></a> 
 <a href="https://instagram.com/ancharts"><img src="https://img.shields.io/badge/-@ancharts-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg)
+<!-- ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg)
 
 <!-- ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ancharts&theme=github_dark)
