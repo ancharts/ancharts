@@ -18,7 +18,7 @@
 <!-- ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg)
 
 <!-- ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ancharts&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ancharts&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ancharts&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ancharts&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ancharts&theme=github_dark)
