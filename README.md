@@ -12,7 +12,7 @@
 <h5> How to reach me:
 <br><br> 
 <a href="mailto:mikhailovaanne@gmail.com"><img src="https://img.shields.io/badge/-mikhailovaanne@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/ancharts"><img src="https://img.shields.io/badge/telegram-%40ancharts-blue"/></a> 
+<a href="https://t.me/mikhailovaanne"><img src="https://img.shields.io/badge/telegram-%40ancharts-blue"/></a> 
 <a href="https://instagram.com/ancharts"><img src="https://img.shields.io/badge/-@ancharts-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <!-- ![Snake animation](https://github.com/ancharts/ancharts/blob/output/github-snake.svg)
